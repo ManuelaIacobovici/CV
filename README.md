@@ -1,6 +1,6 @@
-## Your Name
+## Manuela Iacobovici
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a E-commerce assistant that feel in love with coding long time ago and never had the courage to pursue it. But lately I have joined the Makers Academy, in doing so I have managed to find a serial killer using just command lines, solved very interesting mysteries and achieved recognition on Codewars. I find everything exiting about tech especially the future steps of my journey, learning how to ask the right questions, understand correctly the problem and it's edge cases and ultimatly producing a valid testable and readable solution.  
 
 ## Projects
 
