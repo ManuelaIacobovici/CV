@@ -1,6 +1,6 @@
 ## Manuela Iacobovici
 
-I am a E-commerce assistant that feel in love with coding a long time ago and never had the courage to pursue it. But lately I have joined the Makers Academy, in doing so I have managed to find a serial killer using just command lines, solved very interesting mysteries and achieved recognition on Codewars. I find everything about tech exciting especially the future steps of my journey, learning how to ask the right questions, understand correctly the problem at hand and its edge cases, ultimatly producing a valid, testable and readable solution.  
+I am a E-commerce assistant that feel in love with coding a long time ago and never had the courage to pursue it. But lately I have joined the Makers Academy, in doing so I have managed to find a serial killer using just command lines, solved very interesting mysteries and achieved recognition on Codewars. I find everything about tech exciting especially the future steps of my journey, learning how to ask the right questions, understand correctly the problem at hand and its edge cases, ultimately producing a valid, testable and readable solution.  
 
 ## Projects
 
