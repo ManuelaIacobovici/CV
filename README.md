@@ -1,69 +1,46 @@
 ## Manuela Iacobovici
 
-I am a E-commerce assistant that feel in love with coding a long time ago and never had the courage to pursue it. But lately I have joined the Makers Academy, in doing so I have managed to find a serial killer using just command lines, solved very interesting mysteries and achieved recognition on Codewars. I find everything about tech exciting especially the future steps of my journey, learning how to ask the right questions, understand correctly the problem at hand and its edge cases, ultimately producing a valid, testable and readable solution.  
+An E-commerce administrator that felt in love with coding a long time ago but never had the courage to pursue it. Graduated from Makers Academy bootcamp June 2023 where I have enjoyed problem solving and I have learnt to value test-driven development and agile environments; I find everything about tech exciting especially the future steps of my journey.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description             | Tech/tools                |
+| ---------------------------- | ----------------------- | ------------------------- |
+| **MakersBnB**                | A webapp to do x.       | Ruby, Sinatra, Rspec      |
+| **Acebook**                  | A social media website. | MERN stack, Jest, Cypress |
+| **Foodshare**                | A food waste website.   | MERN stack, Jest, Cypress |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**4feetshoes** (July 2020 to March 2023)  
+_E-commerce Administrator_
+* accuracy
+* problem solving
+* keeping to the process and changing it if neccesary
+* team work
+* working with big data(excel)
+* conflict resolution
+* managing my own time
+* focus
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+## Technical Skills
 
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
+> Languages: CSS, HTML, JavaScript, Node, React, Ruby               > Testing: Cypress, Jest, Rspec
+> Databases: MongoDB, MySql, Postgres                               > Version control: Git, Github
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (Feb to June 2023) 
+- Software development bootcamp focused on object-oriented design, Agile methodologies, test-driven development and pair programming. 
 
-#### Your University / College (start_date to end_date)
+#### Al. I. Cuza University (September 2000 - July 2004)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Bachelors In Economics And Business Administration
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- NVQ in Customer Services (2011)
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Really enjoy "Who done it" type of books(love Agatha Christie), movies, games. Like to play tennis and basketball with my daughter. 
