@@ -7,11 +7,11 @@ An E-commerce administrator that felt in love with coding a long time ago but ne
 
 ## Projects
 
-| Name                         | Description             | Tech/tools                |
-| ---------------------------- | ----------------------- | ------------------------- |
-| **MakersBnB**                | A webapp to do x.       | Ruby, Sinatra, Rspec      |
-| **Acebook**                  | A social media website. | MERN stack, Jest, Cypress |
-| **Foodshare**                | A food waste website.   | MERN stack, Jest, Cypress |
+| Name                         | Description             | Tech/tools                | Github                                                      |
+| ---------------------------- | ----------------------- | ------------------------- | ----------------------------------------------------------- |
+| **MakersBnB**                | An Airbnb type website. | Ruby, Sinatra, Rspec      | https://github.com/jonpillay/makersbnb-ruby-seed            |
+| **Acebook**                  | A social media website. | MERN stack, Jest, Cypress | https://github.com/ManuelaIacobovici/acebook-mern-water-team|
+| **Foodshare**                | A food waste website.   | MERN stack, Jest, Cypress | https://github.com/maddc0de/foodshare                       |
 
 ## Work Experience
 
@@ -36,7 +36,7 @@ _E-commerce Administrator_
 ## Education
 
 #### Makers Academy (Feb to June 2023) 
-- Software development bootcamp focused on object-oriented design, Agile methodologies, test-driven development and pair programming. 
+- Software development bootcamp focused on Agile methodologies, TDD, OOP and pair programming. 
 
 #### Al. I. Cuza University (September 2000 - July 2004)
 
