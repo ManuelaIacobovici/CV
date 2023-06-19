@@ -25,8 +25,10 @@ _E-commerce Administrator_
 
 ## Technical Skills
 
-> Languages: CSS, HTML, JavaScript, Node, React, Ruby               > Testing: Cypress, Jest, Rspec
-> Databases: MongoDB, MySql, Postgres                               > Version control: Git, Github
+> Languages: CSS, HTML, JavaScript, Node, React, Ruby
+> Testing: Cypress, Jest, Rspec
+> Databases: MongoDB, MySql, Postgres
+> Version control: Git, Github
 
 ## Education
 
