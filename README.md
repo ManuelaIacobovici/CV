@@ -1,4 +1,6 @@
-## Manuela Iacobovici
+## Manuela Iacobovici                                                                                            GitHub: https://github.com/ManuelaIacobovici/CV
+                                                                                                                 Email: miacobovici@yahoo.co.uk
+                                                                                                                 Phone Number: 07852813948
 
 An E-commerce administrator that felt in love with coding a long time ago but never had the courage to pursue it. Graduated from Makers Academy bootcamp June 2023 where I have enjoyed problem solving and I have learnt to value test-driven development and agile environments; I find everything about tech exciting especially the future steps of my journey.
 
