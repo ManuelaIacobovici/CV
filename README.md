@@ -3,16 +3,18 @@
 * Email: miacobovici@yahoo.co.uk
 * Phone Number: 07852813948
 
-An E-commerce administrator that felt in love with coding a long time ago but never had the courage to pursue it. Graduated from Makers Academy bootcamp June 2023 where I have enjoyed problem solving and I have learnt to value test-driven development and agile environments. The culture in the tech industry seems to be absolutely fantastic with so many resources to learn from. I find everything about tech exciting especially the future steps of my journey.
+An E-commerce administrator that felt in love with coding a long time ago but never had the courage to pursue it. Graduated from Makers Academy bootcamp June 2023 where I have enjoyed problem solving and I have learnt to value test-driven development and agile environments. The culture in the tech industry seems to be absolutely fantastic with so many resources to learn from. My passion for learning new things and desiring a career that challenges me led me to a career switch.
+I've graduated as a Junior Developer. I'm eager to advance my knowledge and skills as a developer. I would love the opportunity to be part of a friendly and supportive team where I can enhance my skills and contribute to amazing and innovative projects.
+
 
 ## Projects
 
-| Name                         | Description                    | Tech/tools                | Github                                                      |
-| ---------------------------- | ------------------------------ | ------------------------- | ----------------------------------------------------------- |
-| **Bank Tech Test**           | A command-line program that 
-                                 allows you to create a bank 
-                                 account, make deposits, withdraw 
-                                 money, and print statements.    | MERN stack, Jest          | https://github.com/ManuelaIacobovici/bank-tech-test            |
+| Name                         | Description                     | Tech/tools                | Github                                                      |
+| ---------------------------- | ------------------------------- | ------------------------- | ----------------------------------------------------------- |
+| **Bank Tech Test**           | A command-line program that     |
+                               | allows you to create a bank     |
+                               | account, make deposits, withdraw|
+                               | money, and print statements.    | JavaScript, Jest          | https://github.com/ManuelaIacobovici/bank-tech-test         |
 | **Acebook**                  | Facebook clone.                 | MERN stack, Jest, Cypress | https://github.com/ManuelaIacobovici/acebook-mern-water-team|
 | **Foodshare**                | A food waste website.           | MERN stack, Jest, Cypress | https://github.com/maddc0de/foodshare                       |
 
