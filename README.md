@@ -7,11 +7,14 @@ An E-commerce administrator that felt in love with coding a long time ago but ne
 
 ## Projects
 
-| Name                         | Description             | Tech/tools                | Github                                                      |
-| ---------------------------- | ----------------------- | ------------------------- | ----------------------------------------------------------- |
-| **MakersBnB**                | An Airbnb type website. | Ruby, Sinatra, Rspec      | https://github.com/jonpillay/makersbnb-ruby-seed            |
-| **Acebook**                  | A social media website. | MERN stack, Jest, Cypress | https://github.com/ManuelaIacobovici/acebook-mern-water-team|
-| **Foodshare**                | A food waste website.   | MERN stack, Jest, Cypress | https://github.com/maddc0de/foodshare                       |
+| Name                         | Description                    | Tech/tools                | Github                                                      |
+| ---------------------------- | ------------------------------ | ------------------------- | ----------------------------------------------------------- |
+| **Bank Tech Test**           | A command-line program that 
+                                 allows you to create a bank 
+                                 account, make deposits, withdraw 
+                                 money, and print statements.    | MERN stack, Jest          | https://github.com/ManuelaIacobovici/bank-tech-test            |
+| **Acebook**                  | Facebook clone.                 | MERN stack, Jest, Cypress | https://github.com/ManuelaIacobovici/acebook-mern-water-team|
+| **Foodshare**                | A food waste website.           | MERN stack, Jest, Cypress | https://github.com/maddc0de/foodshare                       |
 
 ## Work Experience
 
