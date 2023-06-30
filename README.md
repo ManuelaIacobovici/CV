@@ -3,7 +3,7 @@
 * Email: miacobovici@yahoo.co.uk
 * Phone Number: 07852813948
 
-An E-commerce administrator that felt in love with coding a long time ago but never had the courage to pursue it. What I love about coding is that it feels like solving a puzzle or doing brain teasers, while simultaneously getting to create something. I relish getting to bring a new feature to life or work through learning a new language or technology. During my time at Makers, I worked primarily with Ruby and Javascript. I learned a lot at my time at Makers, but there is always more to learn. I look forward to building a career in the Tech Industry. I am currently learning Pyton.
+An E-commerce administrator that felt in love with coding a long time ago but never had the courage to pursue it. What I love about coding is that it feels like solving a puzzle or doing brain teasers, while simultaneously getting to create something. I relish getting to bring a new feature to life or work through learning a new language or technology. During my time at Makers, I worked primarily with Ruby and Javascript. I learned a lot at my time at Makers, but there is always more to learn. I look forward to building a career in the Tech Industry. I am currently learning Python.
 
 
 ## Projects
@@ -38,7 +38,7 @@ E-commerce Administrator
 ## Education
 
 #### Makers Academy (Feb to June 2023) 
-- A neverending curiousity for coding and new technologies
+- A never-ending curiosity for coding and new technologies
 - Always aiming to sharpen my toolset & craft well-written, readable code
 - Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
      * Languages: CSS, HTML, JavaScript, Node, React, Ruby
