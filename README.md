@@ -32,7 +32,7 @@ An E-commerce administrator that felt in love with coding a long time ago but ne
 
 **4feetshoes** (July 2020 to March 2023)  
 E-commerce Administrator 
-* Update stock and inventory across all platforms. Updating website banners, building landing pages and create promotions. Working closely with internal teams such as Creative, Brand and Product to ensure website is up to date. Monitoring Google and Facebook adverts. Working with the Tech team to ensure appropriate user interface and experience optimisations are made. Keeping up to date and constantly provide ideas to optimise user journey. Reporting on sales performance on a weekly basis.
+* Updating stock and inventory across all platforms. Updating website banners, building landing pages and create promotions. Working closely with internal teams such as Creative, Brand and Product to ensure website is up to date. Monitoring Google and Facebook adverts. Working with the Tech team to ensure appropriate user interface and experience optimisations are made. Keeping up to date and constantly provide ideas to optimise user journey. Reporting on sales performance on a weekly basis.
 
 
 ## Education
@@ -41,10 +41,10 @@ E-commerce Administrator
 - A neverending curiousity for coding and new technologies
 - Always aiming to sharpen my toolset & craft well-written, readable code
 - Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
- * Languages: CSS, HTML, JavaScript, Node, React, Ruby
- * Testing: Cypress, Jest, Rspec
- * Databases: MongoDB, MySql, Postgres
- * Version control: Git, Github 
+     * Languages: CSS, HTML, JavaScript, Node, React, Ruby
+     * Testing: Cypress, Jest, Rspec
+     * Databases: MongoDB, MySql, Postgres
+     * Version control: Git, Github 
 
 #### Al. I. Cuza University (September 2000 - July 2004)
 
