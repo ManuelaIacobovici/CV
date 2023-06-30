@@ -3,8 +3,7 @@
 * Email: miacobovici@yahoo.co.uk
 * Phone Number: 07852813948
 
-An E-commerce administrator that felt in love with coding a long time ago but never had the courage to pursue it. Graduated from Makers Academy bootcamp June 2023 where I have enjoyed problem solving and I have learnt to value test-driven development and agile environments. The culture in the tech industry seems to be absolutely fantastic with so many resources to learn from. My passion for learning new things and desiring a career that challenges me led me to a career switch.
-I've graduated as a Junior Developer. I'm eager to advance my knowledge and skills as a developer. I would love the opportunity to be part of a friendly and supportive team where I can enhance my skills and contribute to amazing and innovative projects.
+An E-commerce administrator that felt in love with coding a long time ago but never had the courage to pursue it. What I love about coding is that it feels like solving a puzzle or doing brain teasers, while simultaneously getting to create something. I relish getting to bring a new feature to life or work through learning a new language or technology. During my time at Makers, I worked primarily with Ruby and Javascript. I learned a lot at my time at Makers, but there is always more to learn. I look forward to building a career in the Tech Industry. I am currently learning Pyton.
 
 
 ## Projects
@@ -18,30 +17,34 @@ I've graduated as a Junior Developer. I'm eager to advance my knowledge and skil
 | **Acebook**                  | Facebook clone.                 | MERN stack, Jest, Cypress | https://github.com/ManuelaIacobovici/acebook-mern-water-team|
 | **Foodshare**                | A food waste website.           | MERN stack, Jest, Cypress | https://github.com/maddc0de/foodshare                       |
 
+## Skills
+
+**Self Led Learner 
+* A strong self led learner. My last position as a E-commerce Administrator required continuous learning of new concepts at pace to ensure that services were well supported. Great desire to succeed and try new things, which led to Makers Bootcamp.
+
+**Team worker 
+* Adept team worker. Thrive and excel within team environments. Help to nurture strong team ethos and collaboration. Agile mindset to working within teams allowing for enhanced performance and success.
+
+**Problem Solving
+* A competent problem solver. At my last job we had a situation where we have sold a delivery of new shoes in one night which led to identify the problem and fix it. 
+
 ## Work Experience
 
 **4feetshoes** (July 2020 to March 2023)  
 _E-commerce Administrator_
-* accuracy
-* problem solving
-* keeping to the process and changing it if neccesary
-* team work
-* working with big data(excel)
-* conflict resolution
-* managing my own time
-* focus
+Update stock and inventory across all platforms. Updating website banners, building landing pages and create promotions. Working closely with internal teams such as Creative, Brand and Product to ensure website is up to date. Monitoring Google and Facebook adverts. Working with the Tech team to ensure appropriate user interface and experience optimisations are made. Keeping up to date and constantly provide ideas to optimise user journey. Reporting on sales performance on a weekly basis.
 
-## Technical Skills
-
-* Languages: CSS, HTML, JavaScript, Node, React, Ruby
-* Testing: Cypress, Jest, Rspec
-* Databases: MongoDB, MySql, Postgres
-* Version control: Git, Github
 
 ## Education
 
 #### Makers Academy (Feb to June 2023) 
-- Software development bootcamp focused on Agile methodologies, TDD, OOP and pair programming. 
+- A neverending curiousity for coding and new technologies
+- Always aiming to sharpen my toolset & craft well-written, readable code
+- Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
+ * Languages: CSS, HTML, JavaScript, Node, React, Ruby
+ * Testing: Cypress, Jest, Rspec
+ * Databases: MongoDB, MySql, Postgres
+ * Version control: Git, Github 
 
 #### Al. I. Cuza University (September 2000 - July 2004)
 
@@ -53,4 +56,4 @@ _E-commerce Administrator_
 
 ## Hobbies
 
-- Really enjoy "Who done it" type of books(love Agatha Christie), movies, games. Like to play tennis and basketball with my daughter. 
+- Really enjoy "Who done it" type of books(love Agatha Christie), movies, games. Like to play tennis and basketball. 
