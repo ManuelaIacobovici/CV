@@ -26,7 +26,10 @@ An E-commerce administrator that felt in love with coding a long time ago but ne
 * Adept team worker. Thrive and excel within team environments. Help to nurture strong team ethos and collaboration. Agile mindset to working within teams allowing for enhanced performance and success.
 
 **Problem Solving
-* A competent problem solver. At my last job we had a situation where we have sold a delivery of new shoes in one night which led to identify the problem and fix it. 
+* A competent problem solver. At my last job we had a situation where we have sold a delivery of new shoes in one night which led to identify the problem and fix it.
+
+**Attention to Detail 
+* I am a visual learner. Through my work I have learned to spot typos, errors through double-checking which overall saves time and improve quality. 
 
 ## Work Experience
 
