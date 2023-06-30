@@ -19,8 +19,8 @@ An E-commerce administrator that felt in love with coding a long time ago but ne
 
 ## Skills
 
-**Self Led Learner 
-* A strong self led learner. My last position as a E-commerce Administrator required continuous learning of new concepts at pace to ensure that services were well supported. Great desire to succeed and try new things, which led to Makers Bootcamp.
+**Willingness to Learn 
+* During my time at previous jobs and especially Makers, I have learnt that I am capable of taking on new concepts and ideas and that I can keep pace in my environment. After learning a large amount in a very short space of time I now feel like I'm suited to a place in a fast-changing tech industry. 
 
 **Team worker 
 * Adept team worker. Thrive and excel within team environments. Help to nurture strong team ethos and collaboration. Agile mindset to working within teams allowing for enhanced performance and success.
