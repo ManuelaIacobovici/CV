@@ -10,9 +10,9 @@ An E-commerce administrator that felt in love with coding a long time ago but ne
 
 | Name                         | Description                     | Tech/tools                | Github                                                      |
 | ---------------------------- | ------------------------------- | ------------------------- | ----------------------------------------------------------- |
-| **Bank Tech Test**           | A command-line program that allows you to create a bank account, make deposits, withdraw money, and print statements | JavaScript, Jest| https://github.com/ManuelaIacobovici/bank-tech-test         |
+| **Bank Tech Test**           | A command-line program that allows you to create a bank account, make deposits, withdraw money and print statements | JavaScript, Jest| https://github.com/ManuelaIacobovici/bank-tech-test         |
 | **Acebook**                  | Facebook clone.                 | MERN stack, Jest, Cypress | https://github.com/ManuelaIacobovici/acebook-mern-water-team|
-| **Foodshare**                | A food waste website.           | MERN stack, Jest, Cypress | https://github.com/maddc0de/foodshare                       |
+| **Foodshare**                | A food waste website.           | MERN stack, Jest, Cypress, Bootstrap | https://github.com/maddc0de/foodshare                       |
 
 ## Skills
 
