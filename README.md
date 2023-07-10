@@ -1,5 +1,4 @@
 ## Manuela Iacobovici
-* https://github.com/ManuelaIacobovici/CV
 * miacobovici@yahoo.co.uk
 * 07852813948
 
@@ -17,16 +16,18 @@ An E-commerce administrator that fell in love with coding a long time ago but ne
 ## Skills
 
 **Willingness to Learn 
-* During my time at previous jobs and especially Makers, I have learnt that I am capable of taking on new concepts and ideas and that I can keep pace in my environment. After learning a large amount in a very short space of time I now feel like I'm suited to a place in a fast-changing tech industry. 
+* During my time at previous jobs and especially Makers, I have learnt that I am capable of taking on new concepts and ideas and that I can keep pace in my environment. After learning a large amount in a very short space of time I now feel like I'm suited to a place in a fast-changing tech industry.
+* As an E-commerce Assistant at 4feetshoes, I consistently demonstrated a strong willingness to learn and adapt. When we implemented a new customer relationship management (CRM) software, I proactively invested extra time to study its features and functionalities. Through self-paced learning and engaging with the IT department, I quickly became proficient in the CRM system. I voluntarily assisted colleagues in navigating the software, sharing my knowledge and facilitating a smooth transition. My dedication to learning contributed to improved team efficiency and enhanced customer service.
 
 **Team player 
-* Adept team player. Thrive and excel within team environments. Help to nurture strong team ethos and collaboration. Agile mindset to working within teams allowing for enhanced performance and success.
+* Adept team player. Thrive and excel within team environments. Agile mindset to working within teams allowing for enhanced performance and success.
+* At my previous job during a peak sales period, I proactively offered my support to overwhelmed team members. I assisted with packaging, labeling, and shipping, ensuring orders were fulfilled accurately and on time. I also helped address customer inquiries, maintaining a high level of satisfaction. My collaborative approach and willingness to support the team contributed to our success.
 
 **Problem Solving
 * A competent problem solver. At my last job we encountered an unforeseen issue that required quick thinking and effective problem-solving. Due to a mistake with the barcode numbers assigned to a new delivery of shoes, all the shoes were erroneously marked at an extremely low price. Realising the potential impact of this error, I immediately took ownership of the situation and commenced troubleshooting. I quickly identified several issues contributing to the problem: incorrect labelling of barcode numbers during the packaging process, a miscommunication between the warehouse and the store, and a failure in the barcode scanning system. Through this experience, I realised the value of maintaining meticulous attention to detail, effective communication, and a systematic problem-solving approach in a fast-paced retail environment.
 
 **Attention to Detail 
-* I am a visual learner. Through my work I have learned to spot typos, errors through double-checking which overall saves time and improve quality. 
+* As a visual learner, I developed a strong ability to spot typos and errors through double-checking. By implementing this attention to detail in my work, I consistently improved the quality of content and saved time for the team. 
 
 ## Work Experience
 
