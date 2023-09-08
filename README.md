@@ -2,16 +2,16 @@
 * miacobovici@yahoo.co.uk
 * 07852813948
 
-An E-commerce administrator that fell in love with coding a long time ago but never had the courage to pursue it. What I love about coding is that it feels like solving a puzzle or doing brain teasers, while simultaneously getting to create something. I relish getting to bring a new feature to life or work through learning a new language or technology. During my time at Makers, I worked primarily with Ruby and Javascript. I learned a lot at my time at Makers, but there is always more to learn. I look forward to building a career in the Tech Industry. I am currently learning Python.
+An E-commerce administrator that fell in love with coding a long time ago but never had the courage to pursue it. What I love about coding is that it feels like solving a puzzle or doing brain teasers, while simultaneously getting to create something. I relish getting to bring a new feature to life or work through learning a new language or technology. During my time at Makers, I worked primarily with Ruby and Javascript. I learned a lot at my time at Makers, but there is always more to learn. I look forward to building a career in the Tech Industry.
 
 
 ## Projects
 
-| Name                         | Description                     | Tech/tools                | Github                                                      |
+| Name                         | Description                     | Tech/tools                |
 | ---------------------------- | ------------------------------- | ------------------------- | ----------------------------------------------------------- |
-| **Bank Tech Test**           | A command-line program that allows you to create a bank account, make deposits, withdraw money and print statements | JavaScript, Jest| https://github.com/ManuelaIacobovici/bank-tech-test         |
-| **Acebook**                  | Facebook clone.                 | MERN stack, Jest, Cypress            | https://github.com/ManuelaIacobovici/acebook-mern-water-team|
-| **Foodshare**                | A food waste website.           | MERN stack, Jest, Cypress, Bootstrap | https://github.com/maddc0de/foodshare                       |
+| **[Bank Tech Test](https://github.com/ManuelaIacobovici?tab=repositories)**           | A command-line program that allows you to create a bank account, make deposits, withdraw money and print statements | JavaScript, Jest|
+| **[Acebook](https://github.com/ManuelaIacobovici?tab=repositories)**                  | Facebook clone.                 | MERN stack, Jest, Cypress            |
+| **[Foodshare](https://github.com/ManuelaIacobovici?tab=repositories)**                | A food waste website.           | MERN stack, Jest, Cypress, Bootstrap |
 
 ## Skills
 
