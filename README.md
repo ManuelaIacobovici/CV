@@ -8,7 +8,7 @@ An E-commerce administrator that fell in love with coding a long time ago but ne
 ## Projects
 
 | Name                         | Description                     | Tech/tools                |
-| ---------------------------- | ------------------------------- | ------------------------- | ----------------------------------------------------------- |
+| ---------------------------- | ------------------------------- | ------------------------- |
 | **[Bank Tech Test](https://github.com/ManuelaIacobovici?tab=repositories)**           | A command-line program that allows you to create a bank account, make deposits, withdraw money and print statements | JavaScript, Jest|
 | **[Acebook](https://github.com/ManuelaIacobovici?tab=repositories)**                  | Facebook clone.                 | MERN stack, Jest, Cypress            |
 | **[Foodshare](https://github.com/ManuelaIacobovici?tab=repositories)**                | A food waste website.           | MERN stack, Jest, Cypress, Bootstrap |
