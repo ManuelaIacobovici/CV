@@ -31,6 +31,10 @@ An E-commerce administrator that fell in love with coding a long time ago but ne
 
 ## Work Experience
 
+**Pensano Developers** (June 2023 to Present)  
+Volunteer Junior Software Developer
+* Using agile methodologies, test-driven development and object-orientated programming to collaboratively create web applications that can make a significant impact on people's lives and have the ability to change the world for the better.
+
 **4feetshoes** (July 2020 to March 2023)  
 E-commerce Administrator 
 * Updating stock and inventory across all platforms.
