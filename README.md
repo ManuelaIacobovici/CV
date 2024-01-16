@@ -2,7 +2,7 @@
 * miacobovici@yahoo.co.uk
 * 07852813948
 
-An E-commerce administrator that fell in love with coding a long time ago but never had the courage to pursue it. What I love about coding is that it feels like solving a puzzle or doing brain teasers, while simultaneously getting to create something. I relish getting to bring a new feature to life or work through learning a new language or technology. During my time at Makers, I worked primarily with Ruby and Javascript. I learned a lot at my time at Makers, but there is always more to learn. I look forward to building a career in the Tech Industry.
+Enthusiastic E-commerce administrator turned Quality Engineer with a long-standing passion for coding. I find joy in the challenge of coding, akin to solving intricate puzzles, and relish the process of bringing new features to life. My journey at Makers Academy expanded my coding repertoire, with a primary focus on Quality Engineering. Proficient in languages such as Ruby, Javascript, and currently exploring Java, I am eager to build a career in the dynamic Tech Industry.
 
 
 ## Projects
@@ -48,12 +48,18 @@ E-commerce Administrator
 
 ## Education
 
+#### Makers Academy - Quality Engineering - (30 October 2023 to 12 January 2024) 
+- Over the course of the 8-week program at Makers, I developed a comprehensive understanding of Quality Engineering, with a focus on Java fundamentals using IntelliJ as my primary development environment.
+- Delving into the realm of testing, I gained proficiency in end-to-end testing with Selenium, acquiring hands-on experience in automating checks and extending testing capabilities.
+- This exploration covered both theoretical aspects and practical insights, allowing me to craft robust test suites and ensure the effective validation of software functionalities.
+- Throughout this journey, I honed my skills in leveraging Java to create efficient and scalable automated tests, contributing to a holistic grasp of Quality Engineering principles and practices.
+       
 #### Makers Academy (Feb to June 2023) 
 - A never-ending curiosity for coding and new technologies
 - Always aiming to sharpen my toolset & craft well-written, readable code
 - Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
-     * Languages: CSS, HTML, JavaScript, Node, React, Ruby
-     * Testing: Cypress, Jest, Rspec
+     * Languages: Java, JavaScript, Node, React, CSS, HTML, Ruby
+     * Testing: Selenium, Cypress, Jest, Rspec
      * Databases: MongoDB, MySql, Postgres
      * Version control: Git, Github 
 
