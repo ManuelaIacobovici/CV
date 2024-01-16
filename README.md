@@ -59,7 +59,7 @@ E-commerce Administrator
 - Always aiming to sharpen my toolset & craft well-written, readable code
 - Learning, honing and maintaining best practices for coding (e.g. TDD, XP Values, Agile approach)
      * Languages: Java, JavaScript, Node, React, CSS, HTML, Ruby
-     * Testing: Selenium, Cypress, Jest, Rspec
+     * Testing: Selenium, Postman, Cypress, Jest, Rspec
      * Databases: MongoDB, MySql, Postgres
      * Version control: Git, Github 
 
