@@ -32,8 +32,9 @@ Enthusiastic E-commerce administrator turned Quality Engineer with a long-standi
 ## Work Experience
 
 **Pensano Developers** (June 2023 to Present)  
-Volunteer Junior Software Developer
+Volunteer Junior Software Developer/QE Tester
 * Using agile methodologies, test-driven development and object-orientated programming to collaboratively create web applications that can make a significant impact on people's lives and have the ability to change the world for the better.
+* Using manual and automation tests we ensure that the software meets quality standards, fulfils user needs and aligns with business objectives.
 
 **4feetshoes** (July 2020 to March 2023)  
 E-commerce Administrator 
