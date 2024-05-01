@@ -2,8 +2,9 @@
 * miacobovici@yahoo.co.uk
 * 07852813948
 
-Enthusiastic E-commerce administrator turned Quality Engineer with a long-standing passion for coding. I find joy in the challenge of coding, akin to solving intricate puzzles, and relish the process of bringing new features to life. My journey at Makers Academy expanded my coding repertoire, with a primary focus on Quality Engineering. Proficient in languages such as Ruby, Javascript, and currently exploring Java, I am eager to build a career in the dynamic Tech Industry.
-
+With a track record of excellence in customer service and E-Commerce having more than seven years of experience I recently graduated with Makers Academy in succession for both Software Development and Quality Engineering,
+where I was able to supplement years of self-teaching with knowledge of industry best practices, test driven development and squeaky clean code, crucially gaining experience of fantastic teamwork, using robust agile processes. I have learned so much at a rapid pace and now I am looking for a position where I can keep the momentum going.
+I crave quick, honest feedback, difficult challenges and the opportunity to take on responsibilities and contribute meaningfully to my team.
 
 ## Projects
 
@@ -33,8 +34,13 @@ Enthusiastic E-commerce administrator turned Quality Engineer with a long-standi
 
 **Pensano Developers** (June 2023 to Present)  
 Volunteer Junior Software Developer/QE Tester
-* Using agile methodologies, test-driven development and object-orientated programming to collaboratively create web applications that can make a significant impact on people's lives and have the ability to change the world for the better.
-* Using manual and automation tests we ensure that the software meets quality standards, fulfils user needs and aligns with business objectives.
+* Utilised agile methodologies and TDD to create impactful web applications.
+* Conducted manual and automated tests to ensure software quality and alignment with business objectives, with a strong focus on web and API testing.
+* Reviewed software requirements to identify potential areas for testing and validation.
+* Investigated, raised, logged, and closed defects, maintaining thorough documentation throughout the defect lifecycle.
+* Documented test results and compiled them into consolidated reports.
+* Contributed to building and improving automated test frameworks to enhance testing efficiency and reliability.
+* Collaborated with cross-functional teams to address user needs and enhance user experience.
 
 **4feetshoes** (July 2020 to March 2023)  
 E-commerce Administrator 
@@ -70,4 +76,6 @@ E-commerce Administrator
 
 #### Any other qualifications
 
-- NVQ in Customer Services (2011)
+- ISTQB Certified Tester, Foundation Level(2024)
+- NVQ in Customer Services(2011)
+
