@@ -30,6 +30,9 @@ I crave quick, honest feedback, difficult challenges and the opportunity to take
 **Attention to Detail 
 * As a visual learner, I developed a strong ability to spot typos and errors through double-checking. By implementing this attention to detail in my work, I consistently improved the quality of content and saved time for the team. 
 
+**Growth Mindset
+* Demonstrated continuous learning and improvement.
+  
 ## Work Experience
 
 **Pensano Developers** (June 2023 to Present)  
